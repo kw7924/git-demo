@@ -1,1 +1,1 @@
-puts "Hello, world, how are you? Hi Kathleen, are you haveing a good day today? I hope so."
+puts "Hello, world, how are you? Hi Kathleen, are you having a good day today? I hope so."
