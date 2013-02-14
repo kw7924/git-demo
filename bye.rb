@@ -1,2 +1,2 @@
-puts "bye!"
-puts "see you later!"
+puts "Bye!"
+puts "See you later!"
